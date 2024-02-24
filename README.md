@@ -5,9 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg4MDY5NDYsIm5iZiI6MTcwODgwNjY0NiwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI0VDIwMzA0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2MjcwZjM2MTJjY2YzZmE1ZDk1ZTRmYjFiYTM5YjE3NDY2ZDYxOGY2ZTdlNjA0NTkxNDQ0NWIyMzljOTRjZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.djhsZ0UNvFWwWTvMgAiV0ARoX4JT2IcPm8a23KT0FSg">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarigireeson&label=Profile%20views&color=0e75b6&style=flat" alt="sabarigireeson" /> </p>
-
 - 🔭 I’m currently working on **Deep CNN Image Classifier with ANY Images**
 
 - 🌱 I’m currently learning **YOLO**
